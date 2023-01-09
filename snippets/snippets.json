@@ -1,0 +1,46 @@
+{
+  "Title of each section ": {
+    "prefix": "!title",
+    "body": [
+      "<div style=\"text-align:center;font-weight: bold\"><span style=\"color: #e0245e;\"></span></div>"
+    ],
+    "description": "To put the title of each part of poem"
+  },
+  "Put one bayt ": {
+    "prefix": "!bay1",
+    "body": [
+      "<div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "</div>"
+    ],
+    "description": "put one bayt"
+  },
+  "Put two bayt ": {
+    "prefix": "!bay2",
+    "body": [
+      "<div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "</div>"
+    ],
+    "description": "put two bayt"
+  },
+  "Put three bayt ": {
+    "prefix": "!bay3",
+    "body": [
+      "<div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "<div style=\"text-align: right\"></div>",
+      "<div style=\"text-align: left\"></div>",
+      "</div>"
+    ],
+    "description": "put three bayt"
+  }
+ 
+}

@@ -1,0 +1,35 @@
+{
+  "name": "arabic-poem",
+  "displayName": "Arabic-Poem",
+  "description": "This will get you up and running to get a the two part of arabic poem",
+  "version": "1.0.0",
+  "publisher": "SEM-DEV",
+  "homepage": "https://github.com//SEM-DEV/arabic-assitance/blob/master/README.md",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/SEM-DEV/arabic-assitance/issues",
+    "email": "support@sem-dev.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SEM-DEV/arabic-assitance"
+  },
+  "engines": {
+    "vscode": "^1.20.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "npm": "^7.9.0"
+  }
+}
