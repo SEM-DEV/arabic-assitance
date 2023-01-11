@@ -12,3 +12,9 @@ A vs code extension used to generate html code for arabic writing and arabic poe
 | !bay1    |  Put one bayt                           |
 | !bay2    |  Put two bayt                           |
 | !bay3    |  Put three bayt                         |
+
+
+## Credits
+
+- [Simen Daehlin ](https://github.com/Eventyret)
+- [Brad Traversy](https://github.com/bradtraversy)
